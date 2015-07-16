@@ -1,0 +1,30 @@
+D:\ProjDelo\SahProjekt\GUISah\bin\Debug\GUISah.exe.config
+D:\ProjDelo\SahProjekt\GUISah\bin\Debug\GUISah.exe
+D:\ProjDelo\SahProjekt\GUISah\bin\Debug\GUISah.pdb
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.csprojResolveAssemblyReference.cache
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.Sah.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.Properties.Resources.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.csproj.GenerateResource.Cache
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.exe
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.pdb
+D:\ProjDelo\SahProjekt\GUISah\bin\Debug\Sah.dll
+D:\ProjDelo\SahProjekt\GUISah\bin\Debug\Sah.pdb
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.FPromocija.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.FBaza.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.FPomoc.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Debug\GUISah.FPravilaIgre.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\bin\Debug\GUISah.exe.config
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.exe
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.pdb
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\bin\Debug\GUISah.exe
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\bin\Debug\GUISah.pdb
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\bin\Debug\Sah.dll
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\bin\Debug\Sah.pdb
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.csprojResolveAssemblyReference.cache
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.Sah.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.FPromocija.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.FBaza.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.FPomoc.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.FPravilaIgre.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.Properties.Resources.resources
+C:\Users\Uporabnik\Documents\Fakuleteta za matematiko in fiziko\projektno delo\SahProjekt\GUISah\obj\Debug\GUISah.csproj.GenerateResource.Cache

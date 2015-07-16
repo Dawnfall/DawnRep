@@ -1,0 +1,5 @@
+D:\ProjDelo\SahProjekt\Sah\bin\Debug\Sah.dll
+D:\ProjDelo\SahProjekt\Sah\bin\Debug\Sah.pdb
+D:\ProjDelo\SahProjekt\Sah\obj\Debug\Sah.dll
+D:\ProjDelo\SahProjekt\Sah\obj\Debug\Sah.pdb
+D:\ProjDelo\SahProjekt\Sah\obj\Debug\Sah.csprojResolveAssemblyReference.cache

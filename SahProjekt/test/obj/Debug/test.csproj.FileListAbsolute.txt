@@ -1,0 +1,8 @@
+D:\ProjDelo\SahProjekt\test\bin\Debug\test.exe.config
+D:\ProjDelo\SahProjekt\test\bin\Debug\test.exe
+D:\ProjDelo\SahProjekt\test\bin\Debug\test.pdb
+D:\ProjDelo\SahProjekt\test\bin\Debug\Sah.dll
+D:\ProjDelo\SahProjekt\test\bin\Debug\Sah.pdb
+D:\ProjDelo\SahProjekt\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\ProjDelo\SahProjekt\test\obj\Debug\test.exe
+D:\ProjDelo\SahProjekt\test\obj\Debug\test.pdb

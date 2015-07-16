@@ -1,0 +1,13 @@
+D:\ProjDelo\SahProjekt\GUISah\bin\Release\GUISah.exe.config
+D:\ProjDelo\SahProjekt\GUISah\bin\Release\GUISah.exe
+D:\ProjDelo\SahProjekt\GUISah\bin\Release\GUISah.pdb
+D:\ProjDelo\SahProjekt\GUISah\bin\Release\Sah.dll
+D:\ProjDelo\SahProjekt\GUISah\bin\Release\Sah.pdb
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.csprojResolveAssemblyReference.cache
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.Sah.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.FPromocija.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.FBaza.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.Properties.Resources.resources
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.csproj.GenerateResource.Cache
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.exe
+D:\ProjDelo\SahProjekt\GUISah\obj\Release\GUISah.pdb

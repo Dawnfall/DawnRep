@@ -1,0 +1,5 @@
+D:\ProjDelo\SahProjekt\Sah\bin\Release\Sah.dll
+D:\ProjDelo\SahProjekt\Sah\bin\Release\Sah.pdb
+D:\ProjDelo\SahProjekt\Sah\obj\Release\Sah.csprojResolveAssemblyReference.cache
+D:\ProjDelo\SahProjekt\Sah\obj\Release\Sah.dll
+D:\ProjDelo\SahProjekt\Sah\obj\Release\Sah.pdb
